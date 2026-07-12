@@ -1,6 +1,6 @@
 ---
 title: Hello World. Just kicking the tires.
-date: 2026-07-12 08:38:00 -0500
+date: 2026-07-12 01:38:00 -0500
 categories: [Blogging]
 tags: [chirpy, github]
 ---
