@@ -13,9 +13,9 @@ Am I right?
 
 # A
 
-Spot on! You’ve connected two of the most famous "sky illusions" out there. This is exactly the same psychological and geometric trap, often called the Moon Tilt Illusion.
+This "sky illusion" is often called the Moon Tilt Illusion.
 
-Just like the contrail shadow, the issue isn't that physics is broken; it’s that your brain is trying to project a 3D reality onto a 2D "mental map" of the sky.
+The issue isn't that physics is broken; it’s that your brain is trying to project a 3D reality onto a 2D "mental map" of the sky.
 
 ## The Great Circle Problem
 
@@ -43,7 +43,7 @@ During that rotation, your internal "level"—your sense of what is "up" and "st
 
 
 
-How to "Fix" Your Brain
+# How to "Fix" Your Brain
 
 The next time you see the Moon and Sun together and the angle looks "wrong," try this trick to prove your intuition is just being fooled:
 
@@ -53,9 +53,4 @@ Hold it up: Hold the string at arm's length so it creates a perfectly straight l
 
 Check the alignment: You will see that the illuminated side of the Moon points exactly along that string to the Sun.
 
-The Connection
-
-In both cases—the contrail shadow and the Moon’s tilt—your brain is guilty of Linear Thinking in a Curvilinear World. It wants the universe to follow the rules of a flat piece of paper, but the sky demands the rules of a sphere.
-
-
-
+Your brain is guilty of Linear Thinking in a Curvilinear World. It wants the universe to follow the rules of a flat piece of paper, but the sky demands the rules of a sphere.
