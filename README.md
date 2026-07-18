@@ -1,3 +1,6 @@
+
+I'm using this for my Blog at SmokeyVW.github.io
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
