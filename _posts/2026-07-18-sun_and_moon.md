@@ -1,8 +1,7 @@
 ---
 title: Seeing The Sun and Moon In The Sky
 date: 2026-07-18 00:00:00 -0500
-categories: [Vision]
-tags: [Illusions]
+tags: [Vision, Illusions]
 ---
 
 # Q
