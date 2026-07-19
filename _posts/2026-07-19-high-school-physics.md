@@ -1,7 +1,7 @@
 ---
 title: High School Physics
 date: 2026-07-19 00:00:00 -0500
-tags: [Past, Physics, Teaching]
+tags: [Past, Physics, School, Computers]
 ---
 
 # Q
